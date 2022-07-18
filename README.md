@@ -17,7 +17,7 @@
 - 📫 How to reach me **singhabhishek2815@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-
+![Code Quality score](https://api.codiga.io/project/34084/score/svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-singh-51453823a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-singh-51453823a" height="30" width="40" /></a>
